@@ -1,4 +1,4 @@
-cd /tmp
+cd /app
 mkdir www
 cp index.html www
 echo "<hr>Running on $(hostname)" >> www/index.html
